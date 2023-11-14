@@ -10,4 +10,4 @@ belajar github &amp; markdown 14/11
 
 [link](github.com)
 
-! [awan](https://image.gambarpng.id/pngs/gambar-transparent-blue-cartoon-cloud-flat-design-set-collection-thumbnail_38677.png)
+![awan] (https://image.gambarpng.id/pngs/gambar-transparent-blue-cartoon-cloud-flat-design-set-collection-thumbnail_38677.png)
